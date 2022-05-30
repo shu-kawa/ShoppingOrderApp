@@ -66,9 +66,9 @@ C:\Users\[ユーザー名]\AppData\Local\ShoppingOrderApp
 にあると思います。
 
 ## 開発環境
-OS：Windows10 64bit Home Edition
-言語：C#
-IDE：Visual Studio 16.11.4
+- OS：Windows10 64bit Home Edition
+- 言語：C#
+- IDE：Visual Studio 16.11.4
 
 ## LINEなどで連絡した方が早い
 作り出してようやく気付きました。
